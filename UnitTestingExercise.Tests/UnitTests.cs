@@ -29,7 +29,7 @@ namespace UnitTestingExercise.Tests
         [Theory]
         [InlineData(10, 5, 5)] // Test case: 10 - 5 = 5
         [InlineData(0, 0, 0)]  // Test case: 0 - 0 = 0
-        public void SubtractTest(int minuend, int subtrhend, int expected)
+        public void SubtractTest(int minuend, int subtrahend, int expected)
         {
             //Start Step 5 here:
 
